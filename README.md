@@ -4,7 +4,7 @@ Este script para Windows soluciona el conflicto de hora que ocurre cuando se tie
 
 ## Descripción
 
-Crea un nuevo valor en el Registro o reemplazar uno existente, el script configura Windows para que guarde la hora en el mismo formato que Linux (UTC). Esto evita que la hora se desconfigure al cambiar entre sistemas operativos.
+Este script configura Windows para que guarde la hora en el mismo formato que Linux (UTC). Esto evita que la hora se desconfigure al cambiar entre sistemas operativos.
 
 ## Uso
 
